@@ -1,0 +1,13 @@
+  
+                                                
+                                                
+                                                <div class="row">
+                                            
+                                               <div class="col" style="padding:0px;">
+                                               <p style="display:inline;font-size:15px;color:black;font-weight:bold;border-right:2px solid black;padding:5px;"><?php echo $this->vars['tours'][$i]["start"]?> Θέσεις</p>
+                                               <p style="display:inline;font-size:15px;color:black;font-weight:bold;border-right:2px solid black;padding:5px;"><?php echo $this->vars['tours'][$i]["departure_date"]?> Κυβικά</p>
+                                                    <p style="display:inline;font-size:15px;color:black;font-weight:bold;"><?php echo $this->vars['tours'][$i]["back_date"]?> € / Μέρα</p>
+                                                   
+                                               </div>
+                                               
+                                                 </div>
