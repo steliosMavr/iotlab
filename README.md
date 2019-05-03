@@ -1,18 +1,18 @@
 ## About Project
 
 
-Website Capabilitys
+Website Capabilitys.
 
--information about different topics related to arduino. (programming,how it works,what is it)
--Contact with the administrator of the website
--Login/Register
+-information about different topics related to arduino. (programming,how it works,what is it).
+-Contact with the administrator of the website.
+-Login/Register.
 
--User Capabilitys
+-User Capabilitys.
 
--Upload arduino project
--delete arduino project
--comment on others user projects
--communicate with other users
+-Upload arduino project.
+-delete arduino project.
+-comment on others user projects.
+-communicate with other users.
 
 
 ## About Laravel
