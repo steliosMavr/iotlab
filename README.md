@@ -1,5 +1,18 @@
 ## About Project
-This Website contain information about arduino,what is it,how it works and provide the user the abillity to upload new projects,comment other projects.
+
+
+Website Capabilitys
+
+-information about different topics related to arduino. (programming,how it works,what is it)
+-Contact with the administrator of the website
+-Login/Register
+
+-User Capabilitys
+
+-Upload arduino project
+-delete arduino project
+-comment on others user projects
+-communicate with other users
 
 
 ## About Laravel
