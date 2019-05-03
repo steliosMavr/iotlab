@@ -7,7 +7,7 @@ Website Capabilitys.
 -Contact with the administrator of the website.
 -Login/Register.
 
--User Capabilitys. \n
+-User Capabilitys. 
 
 -Upload arduino project.
 -delete arduino project.
